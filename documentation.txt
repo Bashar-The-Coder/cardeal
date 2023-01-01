@@ -1,0 +1,3 @@
+# copy index to home
+# goto project and make a new folder static
+# copy css fonts img js folder to static
